@@ -1,16 +1,16 @@
 {
   "stats": {
-    "expected": 6,
-    "unexpected": 8,
+    "expected": 7,
+    "unexpected": 7,
     "skipped": 0,
     "flaky": 0,
-    "duration": 5923
+    "duration": 5629
   },
   "tests": [
     {
       "title": "Logo görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 1661
+      "duration": 1795
     },
     {
       "title": "Nav linkleri doğru text ve 'italic' class'ına sahip olmalı",
@@ -20,7 +20,7 @@
     {
       "title": "CTA başlığı doğru text içermeli",
       "status": "passed",
-      "duration": 95
+      "duration": 94
     },
     {
       "title": "CTA butonu doğru text içermeli",
@@ -30,47 +30,47 @@
     {
       "title": "CTA görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 92
+      "duration": 94
     },
     {
       "title": "Middle img doğru src'ye sahip olmalı",
-      "status": "failed",
-      "duration": 191
+      "status": "passed",
+      "duration": 103
     },
     {
       "title": "Top content başlıkları doğru olmalı",
       "status": "failed",
-      "duration": 544
+      "duration": 187
     },
     {
       "title": "Top content paragrafları doğru olmalı",
       "status": "failed",
-      "duration": 521
+      "duration": 507
     },
     {
       "title": "Bottom content başlıkları doğru olmalı",
       "status": "failed",
-      "duration": 515
+      "duration": 519
     },
     {
       "title": "Bottom content paragrafları doğru olmalı",
       "status": "failed",
-      "duration": 525
+      "duration": 531
     },
     {
       "title": "Contact başlığı doğru olmalı",
       "status": "failed",
-      "duration": 523
+      "duration": 534
     },
     {
       "title": "Contact bilgileri doğru olmalı",
       "status": "failed",
-      "duration": 524
+      "duration": 532
     },
     {
       "title": "Footer linki doğru text'e ve 'bold' class'ına sahip olmalı",
       "status": "failed",
-      "duration": 522
+      "duration": 523
     },
     {
       "title": "index.html içeriği değişmemiş olmalı",

@@ -23,3 +23,6 @@ ctaBtn.textContent = siteContent.cta.button;
 
 const ctaImg = document.getElementById("cta-img");
 ctaImg.src = siteContent.images["cta-img"];
+
+const middleImg = document.getElementById("middle-img");
+middleImg.src = siteContent.images["accent-img"];
