@@ -9,6 +9,7 @@ const navData = siteContent["nav"];
 
 Object.keys(navData).forEach((key, index) => {
   navLinks[index].textContent = navData[key];
+  navLinks[index].classList.add("italic");
 });
 
 const logo = document.getElementById("logo-img");
@@ -22,8 +23,3 @@ ctaBtn.textContent = siteContent.cta.button;
 
 const ctaImg = document.getElementById("cta-img");
 ctaImg.src = siteContent.images["cta-img"];
-
-const topContent = document.querySelectorAll(".top-content .text-content");
-const bottomContent = document.querySelectorAll(
-  ".bottom-content .text-content"
-);
