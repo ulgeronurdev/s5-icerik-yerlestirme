@@ -4,38 +4,38 @@
     "unexpected": 0,
     "skipped": 0,
     "flaky": 0,
-    "duration": 2583
+    "duration": 1987
   },
   "tests": [
     {
       "title": "Logo görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 1175
+      "duration": 557
     },
     {
       "title": "Nav linkleri doğru text ve 'italic' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 148
+      "duration": 140
     },
     {
       "title": "CTA başlığı doğru text içermeli",
       "status": "passed",
-      "duration": 102
+      "duration": 110
     },
     {
       "title": "CTA butonu doğru text içermeli",
       "status": "passed",
-      "duration": 115
+      "duration": 103
     },
     {
       "title": "CTA görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 116
+      "duration": 113
     },
     {
       "title": "Middle img doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 123
+      "duration": 118
     },
     {
       "title": "Top content başlıkları doğru olmalı",
@@ -45,37 +45,37 @@
     {
       "title": "Top content paragrafları doğru olmalı",
       "status": "passed",
-      "duration": 116
+      "duration": 114
     },
     {
       "title": "Bottom content başlıkları doğru olmalı",
       "status": "passed",
-      "duration": 116
+      "duration": 113
     },
     {
       "title": "Bottom content paragrafları doğru olmalı",
       "status": "passed",
-      "duration": 118
+      "duration": 119
     },
     {
       "title": "Contact başlığı doğru olmalı",
       "status": "passed",
-      "duration": 112
+      "duration": 122
     },
     {
       "title": "Contact bilgileri doğru olmalı",
       "status": "passed",
-      "duration": 112
+      "duration": 129
     },
     {
       "title": "Footer linki doğru text'e ve 'bold' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 112
+      "duration": 130
     },
     {
       "title": "index.html içeriği değişmemiş olmalı",
       "status": "passed",
-      "duration": 2
+      "duration": 3
     }
   ]
 }
