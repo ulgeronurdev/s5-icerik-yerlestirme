@@ -67,3 +67,4 @@ contactSection.children[3].textContent = siteContent.contact.email;
 const footerLink = document.querySelector("footer a");
 footerLink.textContent = siteContent.footer.copyright;
 footerLink.classList.add("bold");
+//c

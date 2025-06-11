@@ -4,73 +4,73 @@
     "unexpected": 0,
     "skipped": 0,
     "flaky": 0,
-    "duration": 1917
+    "duration": 2583
   },
   "tests": [
     {
       "title": "Logo görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 532
+      "duration": 1175
     },
     {
       "title": "Nav linkleri doğru text ve 'italic' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 143
+      "duration": 148
     },
     {
       "title": "CTA başlığı doğru text içermeli",
       "status": "passed",
-      "duration": 107
+      "duration": 102
     },
     {
       "title": "CTA butonu doğru text içermeli",
       "status": "passed",
-      "duration": 109
+      "duration": 115
     },
     {
       "title": "CTA görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 110
+      "duration": 116
     },
     {
       "title": "Middle img doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 109
+      "duration": 123
     },
     {
       "title": "Top content başlıkları doğru olmalı",
       "status": "passed",
-      "duration": 107
+      "duration": 117
     },
     {
       "title": "Top content paragrafları doğru olmalı",
       "status": "passed",
-      "duration": 109
+      "duration": 116
     },
     {
       "title": "Bottom content başlıkları doğru olmalı",
       "status": "passed",
-      "duration": 119
+      "duration": 116
     },
     {
       "title": "Bottom content paragrafları doğru olmalı",
       "status": "passed",
-      "duration": 122
+      "duration": 118
     },
     {
       "title": "Contact başlığı doğru olmalı",
       "status": "passed",
-      "duration": 108
+      "duration": 112
     },
     {
       "title": "Contact bilgileri doğru olmalı",
       "status": "passed",
-      "duration": 118
+      "duration": 112
     },
     {
       "title": "Footer linki doğru text'e ve 'bold' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 123
+      "duration": 112
     },
     {
       "title": "index.html içeriği değişmemiş olmalı",
